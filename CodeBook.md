@@ -1,5 +1,5 @@
-#Code Book for CleaningDataProject
-##Data
+# Code Book for CleaningDataProject
+## Data
 ActLab == The names of the activities subjects performed
 AllData == All combined data from UCI HAR Dataset
 CleanData == Melted AllData by subject and activity
