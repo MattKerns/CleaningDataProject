@@ -19,3 +19,13 @@
 
 1) where_feats == gives us a string of integers telling us the rows where means and stds are
 2) here_feats == gives us the names of the features using mean and std
+
+## Transformations
+1) Line 18-19 Change the features and ActLab column 2 to character from factor
+2) Line 25 Clean up the names of the features
+3) Line 28 Bind all data in the Test folder into variable called Test
+4) Line 29 Bind all data in the Train folder into variable called Train
+5) Line 30 Bind all data into one called AllData
+6) Line 32-33 cast columns 1 and 2 as factors to prepare summary
+7) Line 36 Save AllData as a data.table so I can use melt.data.table
+8) Line 37 Melt the data table from 36
