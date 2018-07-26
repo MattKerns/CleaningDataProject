@@ -1,5 +1,5 @@
 # CleaningDataProject
-Repository for my clean data project
+## Repository for my clean data project
 
 
 The script I've written has a few steps:
